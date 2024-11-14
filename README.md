@@ -19,7 +19,7 @@ Les plus performants de la boîte. Ce tableau de bord est censé repondre aux qu
 
 # Méthodologie
 
-**-** Connexion de Power BI à la source de données (Mes sources de données sont des bases de données Excel sur les commerciaux, les ventes, les objetctifs de ventes, etc)
+**-** Connexion de Power BI à la source de données (Mes sources de données sont des bases de données Excel sur les commerciaux, les ventes, les objectifs de ventes, etc)
 
 **-** Prétraitement des données dans PowerQuery (Vérification du format des données, gestion des données manquantes)
 
