@@ -1,6 +1,6 @@
 
 ## Analyse de la performance des employés  
-<img width="584" alt="Tableau de Bord" src="https://github.com/user-attachments/assets/56b9a288-f8b5-4727-b56e-4b21b81801f5">
+<img width="1000" alt="Tableau de Bord" src="https://github.com/user-attachments/assets/56b9a288-f8b5-4727-b56e-4b21b81801f5">
 
 # Contexte
 
