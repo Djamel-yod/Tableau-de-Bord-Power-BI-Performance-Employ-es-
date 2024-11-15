@@ -4,7 +4,7 @@
 
 # Contexte
 
-Les responsables d'une chaîne de grands magasins de commerce fictif veulent mesurer les performances de leurs commerciaux sur les quatre dernières années dans le but d'accorder
+Les responsables d'une chaîne de grands magasins de commerce veulent mesurer les performances de leurs commerciaux sur les quatre dernières années dans le but d'accorder
 des promotions aux meilleurs d'entre eux. En tant que Data Analyst, je suis chargé de développer un tableau de bord interactif qui devrait permettre de déceler les employés 
 Les plus performants de la boîte. Ce tableau de bord est censé repondre aux questions suivantes:
 
