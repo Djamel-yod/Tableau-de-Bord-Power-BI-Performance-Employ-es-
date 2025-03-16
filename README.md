@@ -23,6 +23,8 @@ Ce projet vise à développer un tableau de bord interactif pour une chaîne de 
 
 **-** Prétraitement des données dans PowerQuery (Vérification du format des données, gestion des données manquantes)
 
+**-** Modélisation des données: Schéma en étoile
+
 **-** Création du Data Model en établissant les relations existantes entre les tables
 
 **-** Création de nouvelles tables, notamment la table de dates 
