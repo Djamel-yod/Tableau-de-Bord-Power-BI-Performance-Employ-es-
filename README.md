@@ -1,12 +1,12 @@
 
 ## Analyse de la performance des employés  
-<img width="1000" alt="Tableau de Bord" src="https://github.com/user-attachments/assets/56b9a288-f8b5-4727-b56e-4b21b81801f5">
+
+<img width="844" alt="Capture" src="https://github.com/user-attachments/assets/fdb46b91-6000-48d8-9028-58f765be9558" />
+
 
 # Contexte
 
-Les responsables d'une chaîne de grands magasins de commerce veulent mesurer les performances de leurs commerciaux sur les quatre dernières années dans le but d'accorder
-des promotions aux meilleurs d'entre eux. En tant que Data Analyst, je suis chargé de développer un tableau de bord interactif qui devrait permettre de déceler les employés 
-Les plus performants de la boîte. Ce tableau de bord est censé repondre aux questions suivantes:
+Ce projet vise à développer un tableau de bord interactif pour une chaîne de grands magasins, permettant d'évaluer les performances des commerciaux sur les quatre dernières années. L'objectif est d'identifier les meilleurs éléments en vue de promotions. Ce tableau de bord est censé répondre aux questions suivantes :
 
 **-** Quel est le montant total des ventes réalisées par chaque commercial ?  
 
@@ -39,6 +39,7 @@ Les plus performants de la boîte. Ce tableau de bord est censé repondre aux qu
 
 
 <a href="#">#PowerBI</a>
+<a href="#">#Modélisation des données</a>
 <a href="#">#PowerQuery</a>
 <a href="#"> #DAX </a>
 
