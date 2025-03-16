@@ -1,7 +1,7 @@
 
 ## Analyse de la performance des employés  
 
-<img width="844" alt="Capture" src="https://github.com/user-attachments/assets/fdb46b91-6000-48d8-9028-58f765be9558" />
+<img width="1000" alt="Capture" src="https://github.com/user-attachments/assets/fdb46b91-6000-48d8-9028-58f765be9558" />
 
 
 # Contexte
